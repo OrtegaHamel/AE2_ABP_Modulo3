@@ -15,7 +15,7 @@ print (f"Me encanta comer {comida1} y {comida2}") # con f-string
 #BONUS NINJA
 print ("Me encanta comer %s y %s" % (comida1, comida2)) # con %
 
-# 3. Imprimir "Hola 156!" con el número en una variable
+# 3. Imprimir "Hola 777!" con el número en una variable
 numero = 777
 print("Hola", numero, "!") # con una coma
 print("Hola " + str(numero) + "!") # con un + y un str
